@@ -7,14 +7,13 @@
 # Anderson Soares
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Knowledge throughout the chain in Billing and CRM processes in the Telecom segments.
+I have been working more than 10 years in many projects in IT and Telecom. All those years give me strong knowledge with Billing Systems (like BSCS, OSS/BSS, VAS, Recharge and convergent charging) and all systems and programs languages involved them as Unix (HP-UX, Solaris e Linux), Oracle Database, application service (Weblogic,, apache), Shellscript, AWK, PL/SQL, every workin at Telecom companies like: Ericsson e TIM.
+Good knowledge in  ITIL and Scrum.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/andersontsoares/)
 * [Medium](https://www.medium.com)
 
