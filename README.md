@@ -8,10 +8,10 @@
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 Knowledge throughout the chain in Billing and CRM processes in the Telecom segments.
-I have been working more than 10 years in many projects in IT and Telecom. All those years give me strong knowledge with Billing Systems (like BSCS, OSS/BSS, VAS, Recharge and convergent charging) and all systems and programs languages involved them as Unix (HP-UX, Solaris e Linux), Oracle Database, application service (Weblogic,, apache), Shellscript, AWK, PL/SQL, every workin at Telecom companies like: Ericsson e TIM.
-Good knowledge in  ITIL and Scrum.
+I have been working more than 10 years in many projects in IT and Telecom. All those years give me strong knowledge with Billing Systems (like BSCS, OSS/BSS, VAS, Recharge and convergent charging) every workin at Telecom companies like: Ericsson e TIM.
+Good knowledge in ITIL and Scrum.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Unix (HP-UX, Solaris e Linux), Oracle Database, application service (Weblogic,apache), Shellscript, AWK, PL/SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andersontsoares/)
