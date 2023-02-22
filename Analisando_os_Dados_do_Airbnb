@@ -623,12 +623,12 @@
         "df[1:300]"
       ],
       "metadata": {
-        "id": "iSSfHtsL9Dk7",
-        "outputId": "a1e0abd8-376e-42e6-ea14-12fd0421c512",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1778
-        }
+        },
+        "id": "iSSfHtsL9Dk7",
+        "outputId": "a1e0abd8-376e-42e6-ea14-12fd0421c512"
       },
       "execution_count": 46,
       "outputs": [
@@ -1069,11 +1069,11 @@
         "(df.isnull().sum()).sort_values(ascending=False)"
       ],
       "metadata": {
-        "id": "rfO3Yo9YB11D",
-        "outputId": "8fe17647-ef81-406f-b80f-f96e2c805ce0",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "rfO3Yo9YB11D",
+        "outputId": "8fe17647-ef81-406f-b80f-f96e2c805ce0"
       },
       "execution_count": 53,
       "outputs": [
@@ -1138,12 +1138,12 @@
         "df.describe().round(1)"
       ],
       "metadata": {
-        "id": "v7F57JK9CJo9",
-        "outputId": "b27de976-d2fb-4fb6-f77f-b7bcafaf55da",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 278
-        }
+        },
+        "id": "v7F57JK9CJo9",
+        "outputId": "b27de976-d2fb-4fb6-f77f-b7bcafaf55da"
       },
       "execution_count": 54,
       "outputs": [
@@ -1443,12 +1443,12 @@
         "df.hist(figsize=(20,15), grid=False);"
       ],
       "metadata": {
-        "id": "QlGbDHr0E-e6",
-        "outputId": "7b94d764-3a95-483f-a350-fff5423f5031",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 879
-        }
+        },
+        "id": "QlGbDHr0E-e6",
+        "outputId": "7b94d764-3a95-483f-a350-fff5423f5031"
       },
       "execution_count": 55,
       "outputs": [
@@ -1505,11 +1505,11 @@
         "print('Limite inferior de price: ', inf_price)\n"
       ],
       "metadata": {
-        "id": "2eSD9RVxFf3Q",
-        "outputId": "7ce9c446-ec5b-4d6d-cb2b-5fad1e987bc5",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "2eSD9RVxFf3Q",
+        "outputId": "7ce9c446-ec5b-4d6d-cb2b-5fad1e987bc5"
       },
       "execution_count": 56,
       "outputs": [
@@ -1537,12 +1537,12 @@
         "print(\"Representam {:.2f}% do dataset\".format((len(df[df.price > 335.5]) / df.shape[0])*100))"
       ],
       "metadata": {
-        "id": "8HTyw3kUF2ab",
-        "outputId": "a4695abd-94e8-41e6-e62d-e50dfa5e6956",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 282
-        }
+        },
+        "id": "8HTyw3kUF2ab",
+        "outputId": "a4695abd-94e8-41e6-e62d-e50dfa5e6956"
       },
       "execution_count": 59,
       "outputs": [
@@ -1583,11 +1583,11 @@
         "print('Shape após a limpeza: ',df_clear.shape)"
       ],
       "metadata": {
-        "id": "YtHLWlrLHN57",
-        "outputId": "c2489c53-20b6-4b90-e80b-019cbafa8d4b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "YtHLWlrLHN57",
+        "outputId": "c2489c53-20b6-4b90-e80b-019cbafa8d4b"
       },
       "execution_count": 62,
       "outputs": [
@@ -1624,12 +1624,12 @@
         "print(\"Tamanho atual: {} colunas\".format(df_clear.shape[0]))"
       ],
       "metadata": {
-        "id": "_bfSXtbDI7Wa",
-        "outputId": "b87bf1f4-a6d7-4bcf-b86f-415062e97ee4",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 263
-        }
+        },
+        "id": "_bfSXtbDI7Wa",
+        "outputId": "b87bf1f4-a6d7-4bcf-b86f-415062e97ee4"
       },
       "execution_count": 68,
       "outputs": [
@@ -1676,12 +1676,12 @@
         "df_clear.hist(figsize=(20,15), grid=False);"
       ],
       "metadata": {
-        "id": "Yne0LS4eJbgR",
-        "outputId": "7eead767-8ceb-4674-e90b-8895ae21179c",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 879
-        }
+        },
+        "id": "Yne0LS4eJbgR",
+        "outputId": "7eead767-8ceb-4674-e90b-8895ae21179c"
       },
       "execution_count": 69,
       "outputs": [
@@ -1706,12 +1706,12 @@
         "df_clear.describe().round(1)"
       ],
       "metadata": {
-        "id": "tRZK8AcJJjsE",
-        "outputId": "cfff8f6b-ceb4-40bf-cd84-afcfd1dba9e8",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 278
-        }
+        },
+        "id": "tRZK8AcJJjsE",
+        "outputId": "cfff8f6b-ceb4-40bf-cd84-afcfd1dba9e8"
       },
       "execution_count": 70,
       "outputs": [
